@@ -2,19 +2,19 @@
 The objective of this project is to build a machine learning regression model that predicts the expected Startup Survival Time (in months) based on financial, customer, employee, and business-related features.The project compares multiple regression algorithms, including Multiple Linear Regression, Ridge Regression, Lasso Regression, and Elastic Net Regression, to identify the model that provides the most accurate predictions.
 
 **Input Features & Output column:-**
-Funding Stage
-Industry Sector
-Business Model
-Cash Available ($)
-Monthly Burn Rate ($/month)
-Monthly Revenue ($/month)
-CAC ($/customer) — Customer Acquisition Cost
-LTV ($/customer) — Customer Lifetime Value
-Revenue Growth Rate (%)
-Customer Churn Rate (%)
-Customer Growth Rate (%)
-Gross Profit Margin (%)
-Employee Attrition (%)
+Funding Stage,
+Industry Sector,
+Business Model,
+Cash Available ($),
+Monthly Burn Rate ($/month),
+Monthly Revenue ($/month),
+CAC ($/customer) — Customer Acquisition Cost,
+LTV ($/customer) — Customer Lifetime Value,
+Revenue Growth Rate (%),
+Customer Churn Rate (%),
+Customer Growth Rate (%),
+Gross Profit Margin (%),
+Employee Attrition (%),
 Startup Survival Time (Months)--the output
 
 **Model Comparison Results table:-**
