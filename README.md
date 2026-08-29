@@ -17,6 +17,15 @@ Gross Profit Margin (%),
 Employee Attrition (%),
 Startup Survival Time (Months)--the output
 
+**Requirements:-**
+pandas,
+numpy,
+scikit-learn,
+matplotlib,
+scipy,
+statsmodels,
+seaborn
+
 *Model Comparison Results table:-*
 | Model | RMSE | MAE | R² | Adjusted R² |
 |---|---|---|---|---|
@@ -52,9 +61,3 @@ As both top models giving the similar metrics score then the Residual analysis a
 A new value of each input features is taken and then the output is predicted. Since, Multiple Linear Regression selected as final model so prediction is done upon that model only to check the output.
 
 git clone https://github.com/tahsinA007/Startup_Longevity_Prediction.git 
-
-cd Startup_Longevity_Prediction
-
-pip install -r requirements.txt
-
-jupyter notebook startup-survival-time-prediction1.ipynb
