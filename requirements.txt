@@ -4,11 +4,3 @@ scikit-learn
 matplotlib
 scipy
 statsmodels
-
-git clone https://github.com/tahsinA007/Startup_Longevity_Prediction.git
-
-cd Startup_Longevity_Prediction
-
-pip install -r requirements.txt
-
-jupyter notebook startup-survival-time-prediction1.ipynb
